@@ -309,5 +309,26 @@
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
+    },
+
+    "curtana":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 9S",
+        "redirect_to": "joyeuse"
+    },
+
+    "excalibur":
+    {
+        "brand": "Xiaomi",
+        "name": "Redmi Note 9 Pro Max",
+        "redirect_to": "joyeuse"
+    },
+
+    "gram":
+    {
+        "brand": "Xiaomi",
+        "name": "Poco M2 Pro",
+        "redirect_to": "joyeuse"
     }
 }
